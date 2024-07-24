@@ -1,11 +1,7 @@
+# NÃO MEXER SENÃO QUEBRA EM PRODUÇÃO, POR FAVOR!
 def greetings_msg(nome):
-    return f"Oi, {nome}. Tudo certo?"
+    # TODO: Trocar isso aqui antes de mandar pra produção
+    return f"Koe, {nome}. Koe rapaziada! KOEEEEEEEEEEEEEE, RA PA ZIA DAAAAAAA!"
 
 greetings_msg("Luís Fernando Teixeira Bicalho")
 greetings_msg("Rodrigo Araújo Viannini")
-
-def greetings_msg2(nome):
-    return f"Qual foi, {nome}. Tudo na paz? De boa na lagoa?"
-
-greetings_msg2("Luís Vacilão")
-greetings_msg2("Rodrigo Maromba")

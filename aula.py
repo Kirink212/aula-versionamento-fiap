@@ -1,5 +1,5 @@
 def greetings_msg(nome):
-    return f"Olá, {nome}. Tudo bem?"
+    return f"Qual foi, {nome}. Tudo na paz? De boa na lagoa?"
 
-greetings_msg("Luís Bicalho")
-greetings_msg("Rodrigo Viannini")
+greetings_msg("Luís Vacilão")
+greetings_msg("Rodrigo Maromba")
